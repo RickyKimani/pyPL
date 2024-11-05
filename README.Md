@@ -15,8 +15,10 @@ This project is a Python library for fetching and displaying stats from the Fant
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/rickykimani/pyPL.git
+    ```
 
-    cd pyPL
+	```bash
+	cd pyPL
     ```
 
 	if you use vscode you can then type 
