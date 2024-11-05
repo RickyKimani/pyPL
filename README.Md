@@ -148,4 +148,4 @@ except ValueError as e:
 Contributions are welcome! If you’d like to add more methods or improve functionality, please fork the repository and create a pull request. Make sure to document any new methods in the README.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
