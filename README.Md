@@ -2,6 +2,8 @@
 
 This project is a Python library for fetching and displaying stats from the Fantasy Premier League (FPL) API. It retrieves information about a specific FPL manager, including their team, points, ranking, favorite team id, and more.
 
+I wouldn't call it a library though 👀
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
