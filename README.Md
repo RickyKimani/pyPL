@@ -99,7 +99,7 @@ The code to the plot can be found here:
 
 [`Python`](./plot-example/points-plot.py)
 
-View the [interactive plot](https://github.com/RickyKimani/fpl-plot) 
+View the [interactive plot](https://rickykimani.github.io/fpl-plot/) 
 
 
 ## **Contributing**
