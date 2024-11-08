@@ -91,17 +91,15 @@ print(history.total_points)  # Total points up to gameweek 5
 
 ## **Plots**
 
-You can use the data from the `FplHistory` class to plot beautiful bar charts using libraries like [`matplotlib`](C:\Users\rleah\pyPL-test\pyPL\plot-example\GWplot.png) and [`plotly`](https://plotly.com/python/).
+You can use the data from the `FplHistory` class to plot beautiful bar charts using libraries like [`matplotlib`](https://matplotlib.org) and [`plotly`](https://plotly.com/python/).
 
 ![Plot example](./plot-example/GWplot.png)
 
 The code to the plot can be found here:
 
-[`Jupyter notebook`](./plot-example/points-plot.ipynb)
+[`Python`](./plot-example/points-plot.py)
 
-[`Normal python`](./plot-example/points-plot.py)
-
-View the [interactive plot](https://rickykimani.github.io/pyPL/blob/main/plot-example/points-plot.html/) 
+View the [interactive plot](https://github.com/RickyKimani/fpl-plot) 
 
 
 ## **Contributing**
