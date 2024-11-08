@@ -101,9 +101,7 @@ The code to the plot can be found here:
 
 [`Normal python`](./plot-example/points-plot.py)
 
-To view the [interactive plot](./plot-example/points-plot.html) 
-
-[`HTML`]()
+View the [interactive plot](https://rickykimani.github.io/pyPL/blob/main/plot-example/points-plot.html/) 
 
 
 ## **Contributing**
