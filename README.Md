@@ -101,11 +101,10 @@ The code to the plot can be found here:
 
 [`Normal python`](./plot-example/points-plot.py)
 
-To view the interactive plot 
+To view the [interactive plot](./plot-example/points-plot.html) 
 
 [`HTML`]()
 
-[`Notebook`]()
 
 ## **Contributing**
 

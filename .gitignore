@@ -9,3 +9,4 @@ main.py
 
 #ignore jupyter notebook trash
 .ipynb_checkpoints
+points-plot.ipynb
