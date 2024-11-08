@@ -6,3 +6,6 @@ __pycache__/
 
 #ignore main
 main.py
+
+#ignore jupyter notebook trash
+.ipynb_checkpoints
