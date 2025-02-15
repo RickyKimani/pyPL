@@ -45,7 +45,7 @@ You can run the `example.py` with your managerID to see your stats
 
 `FplCurrent` retrieves general information about a manager’s FPL profile, such as their name, rank, points, and leagues they are part of. You can also access information about the manager’s favorite league and more.
 
-```bash
+```python
 from fpl import FplCurrent
 
 manager = FplCurrent(managerID=1234567)
@@ -58,7 +58,7 @@ print(manager.favorite_team)  # Favorite team
 
 `ClassicLeagues` allows you to access detailed information about a specific classic league that the manager is part of. It includes the league’s ID, name, rank, and other league-related statistics.
 
-```bash
+```python
 from fpl import ClassicLeagues
 
 manager = ClassicLeagues(managerID=1234567, n=0)
@@ -70,7 +70,7 @@ print(manager.rank)  # League rank
 
 `ActivePhases` retrieves detailed information about a specific active phase of a classic league. This includes the phase rank, points, total, and percentile rank within the league.
 
-```bash
+```python
 from fpl import ActivePhases
 
 manager = ActivePhases(managerID=1234567, n=0, phase_number=1)
@@ -81,7 +81,7 @@ print(manager.A_rank)  # League rank in the current active phase
 
 `FplHistory` allows you to access historical data for a specific gameweek, including points, rank, and other relevant statistics for that week.
 
-```bash
+```python
 from fpl import FplHistory
 
 history = FplHistory(managerID=1234567, gameWeek=5)
